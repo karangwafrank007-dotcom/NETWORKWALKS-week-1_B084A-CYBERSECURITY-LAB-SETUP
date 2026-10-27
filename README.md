@@ -16,4 +16,12 @@ This project focuses on setting up a virtual cybersecurity and penetration-testi
 - **Network Mapping:** Forcefully assigned a permanent Static IP address of `10.0.0.2/24` to the `eth0` device interface.
 - **Routing Configuration:** Manually mapped a default gateway path pointing directly to the VirtualBox routing junction at `10.0.0.1`.
 - **Connectivity Testing:** Successfully executed ICMP pings out to Google public DNS (`8.8.8.8`), confirming fully optimized external internet traversal.
+- ### Visual Proof of Lab Completion
+
+**VirtualBox NAT Network Configuration:**
+![VirtualBox NAT Network Setup](image_zuWPwR.png)
+
+**Kali Linux Static IP Configuration & Internet Ping Test:**
+![Kali Linux Static IP and Ping Test](image_tJyQ_l.png)
+
 
